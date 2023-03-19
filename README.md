@@ -1,2 +1,2 @@
 # TenSeconds
-Fiz um programa que exibe uma contagem de 0 a 10 na mesma linha, aguardando um segundo entre cada número.
+Programa que exibe uma contagem de 0 a 10 na mesma linha, aguardando um segundo entre cada número.
